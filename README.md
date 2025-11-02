@@ -16,4 +16,4 @@ Team member : Siva Gomathi S M
 
 Servicenow Instance: https://dev314845.service-now.com/now/nav/ui/classic/params/target/ui_page.do%3Fsys_id%3D30f0862d83f8321048d1c065eeaad340
 
-Demo video Link: https://drive.google.com/drive/folders/1mqTNdPtjJYIQ25kXqTE0AyD7F2Crl8m_
+Demo video Link: https://drive.google.com/file/d/1irpd0I_TzJ8F185QBffuzH6LwAZrJjn-/view?usp=drive_link
